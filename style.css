@@ -1,0 +1,13 @@
+/* 
+font-family: 'Gentium Book Plus', serif;
+font-family: 'Karla', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+
+*/
+.body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Merriweather', serif;
+}
