@@ -1,10 +1,5 @@
 /* 
-font-family: 'Gentium Book Plus', serif;
-font-family: 'Karla', sans-serif;
 font-family: 'Merriweather', serif;
-font-family: 'Montserrat', sans-serif;
-font-family: 'Poppins', sans-serif;
-
 */
 body{
     margin: 0;
@@ -16,9 +11,12 @@ body{
 .join{
     background-color: #289BDE;
 }
+/* --------------------------------------------------banner------------------------------------ */
+.banner-img img{
+    height: 100vh;
+}
 .banner-img{
     position: relative;
-    height: 500px;
 }
 .banner-txt{
     position: absolute;
@@ -42,7 +40,17 @@ body{
 .carousel-indicators{
     display: none;
 }
+/* ---------------------------------------------------------banner end----------------------- */
+/* ---------------------------------------------------------join start----------------------- */
+.join{
+    /* background-color: #289BDE; */
+    background-color: #101152;
+}
+/* ---------------------------------------------------------join end----------------------- */
 /* -----------------------------------------------------------footer-------------------------- */
+footer{
+    background-color: #101152;
+}
 footer p{
     color: rgb(223, 223, 223);
 }
