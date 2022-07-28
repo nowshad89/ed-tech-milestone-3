@@ -42,3 +42,9 @@ body{
 .carousel-indicators{
     display: none;
 }
+footer p{
+    color: rgb(223, 223, 223);
+}
+ul{
+    list-style: none;
+}
